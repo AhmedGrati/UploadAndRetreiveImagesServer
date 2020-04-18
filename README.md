@@ -1,1 +1,1 @@
-# UploadAndRetreiveImagesServer
+# UploadAndRetrieveImagesServer
